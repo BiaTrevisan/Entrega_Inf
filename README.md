@@ -18,18 +18,20 @@ Feito no Canva, preparamos uma apresentação para sala, apresentando a individu
 ## Trabalhos Excel
 
 Distribuir as aulas de cada turma para os professores
-[![Carga horária dos professores](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Attachments/HORARIO_dinamica%2001.xlsx?d=w872f3983e2e443f8a3305fe705a96ffc&csf=1&web=1&e=pZjIEd)
+![Captura de tela 2024-06-10 195641](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8e50587a-0b95-4e35-9575-6ac6872c8188)
 
-|Excel | 
 Fazer analise de despesas aplicando formulas 
-[![Finanças](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Pasta.xlsx?d=w5a583b83650b4acca148910994d388a9&csf=1&web=1&e=1TgDNE)
+![Captura de tela 2024-06-10 195833](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/4ea8d835-a1bb-43cf-8f6d-d49bb1469d37)
+![Captura de tela 2024-06-10 195904](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/f81430a5-a232-42fd-a61e-6d8a8c54a0b4)
 
-|Excel | 
 Organizar receitas dos seguintes comercios
-[![Receitas](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Attachments/Atividade%20de%20informatia.xlsx?d=w9f865f00de054fc980ed2142aa21b048&csf=1&web=1&e=AnchIn&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0)
+![Captura de tela 2024-06-10 200412](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8fbafb77-84a5-411a-a5ad-e53967c4b8b5)
+![Captura de tela 2024-06-10 200352](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/9573adeb-113b-484a-b325-0fc9e695f150)
+![Captura de tela 2024-06-10 200227](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/b5f46c52-8c8c-47f8-a429-e0c202ec8de7)
 
 
-|PowerBI|
+## Trabalho Power BI
+
 Simulação de sprint 
 [GitHub](https://github.com/BiaTrevisan/Power-Bi_Modelo) 
 [![Apresentação Power Bi](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/dcf47b5a-fa0b-41a8-84be-7aa6275807e0?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=sharebutton&sourcetime=1716514291782)
