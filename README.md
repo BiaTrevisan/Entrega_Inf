@@ -35,7 +35,7 @@ Organizar receitas dos seguintes comercios
 Simulação de sprint 
 [GitHub](https://github.com/BiaTrevisan/Power-Bi_Modelo) 
 
-[![Apresentação Power Bi](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/dcf47b5a-fa0b-41a8-84be-7aa6275807e0?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=sharebutton&sourcetime=1716514291782)
+![dashboard Mayla e Bianca - (Página 1) (1)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/3acafd73-5803-45ec-8641-e0419deb6116)
 
 ## Trabalho Power App
 
