@@ -8,13 +8,14 @@ Este foi o objetivo por apresentar tudo o que foi realizado durante o semestre.
 * [Autor](#autor)
 
 
-# Registros
-|Apresntação do grupo | 
+# Registros 
 
+## Apresentação em Grupo
 Feito no Canva, preparamos uma apresentação para sala, apresentando a individualidade de cada membro
 [![Apresentação de grupo](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_INF047.A994.N.074.146.20241/Student%20Work/Working%20files/MARIANA%20CYNTHIA%20DE% 20FARIA/E1_%20Apresenta%C3%A7%C3%A3o%20da%20Equipe/Inform%C3%A1tica%20Aplicada%20a%20Log%C3%ADstica%202.pptx?d=w2b0d42b5e5d6458e952f67db2f1e81bc&csf=1&web=1& e=4ns2hh)
 
-|Excel | 
+
+## Trabalhos Excel
 
 Distribuir as aulas de cada turma para os professores
 [![Carga horária dos professores](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Attachments/HORARIO_dinamica%2001.xlsx?d=w872f3983e2e443f8a3305fe705a96ffc&csf=1&web=1&e=pZjIEd)
