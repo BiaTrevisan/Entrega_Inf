@@ -8,24 +8,23 @@ Este foi o objetivo por apresentar tudo o que foi realizado durante o semestre.
 
 # Registros 
 
-## Apresentação em Grupo
-Feito no Canva, preparamos uma apresentação para sala, apresentando a individualidade de cada membro
+## Apresentação em Grupo 📌
+▶️ Feito no Canva, preparamos uma apresentação para sala, apresentando a individualidade de cada membro‼️
 
 ![Captura de tela 2024-06-10 201425](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/5d8bbb82-4f90-4b6b-b5c0-9404c1d4cdbe)
 
 
-## Trabalhos Excel
-
-Distribuir as aulas de cada turma para os professores
+## Trabalhos Excel ✔️
+▶️ Distribuir as aulas de cada turma para os professores‼️
 
 ![Captura de tela 2024-06-10 195641](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8e50587a-0b95-4e35-9575-6ac6872c8188)
 
-Fazer analise de despesas aplicando formulas 
+▶️ Fazer analise de despesas aplicando formulas‼️
 
 ![Captura de tela 2024-06-10 195833](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/4ea8d835-a1bb-43cf-8f6d-d49bb1469d37)
 ![Captura de tela 2024-06-10 195904](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/f81430a5-a232-42fd-a61e-6d8a8c54a0b4)
 
-Organizar receitas dos seguintes comercios
+▶️ Organizar receitas dos seguintes comercios‼️
 
 ![Captura de tela 2024-06-10 200412](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8fbafb77-84a5-411a-a5ad-e53967c4b8b5)
 ![Captura de tela 2024-06-10 200352](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/9573adeb-113b-484a-b325-0fc9e695f150)
@@ -36,9 +35,9 @@ Organizar receitas dos seguintes comercios
 | Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
 
 
-## Trabalho Power BI
+## Trabalho Power BI 🧮
 
-Simulação de sprint 
+▶️ Simulação de sprint‼️ 
 
 [GitHub](https://github.com/BiaTrevisan/Power-Bi_Modelo) 
 
@@ -50,9 +49,9 @@ Simulação de sprint
 | Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
 | Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 
-## Trabalho Power App
+## Trabalho Power App 📱
 
-Criação de Aplicativo  
+▶️ Criação de Aplicativo‼️ 
 
 ![imagem (4)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/270e22ad-850d-4808-b3c2-a6a0b53de5ee)
 ![imagem (5)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/ba38aece-30e0-48d2-b2a7-62735fc20a2c)
