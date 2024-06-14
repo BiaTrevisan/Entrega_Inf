@@ -69,6 +69,9 @@ Este GIT foi criado com o objetivo por apresentar tudo o que foi realizado duran
 ![print](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/51bf63fd-3f41-403a-a9ae-eb5e8a9134d9)
 ![123](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/ef8e0008-d50a-4391-b28b-3aabafa1ebbc)
 
+
+|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
 | Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 
