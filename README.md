@@ -1,6 +1,6 @@
 # Entrega de trabalhos de informática - 1° Semestre Log
 
-Este foi o objetivo por apresentar tudo o que foi realizado durante o semestre.
+Este GIT foi criado com o objetivo por apresentar tudo o que foi realizado durante o semestre.
 
 # Índice
 * [Apresentação](#apresentação)
