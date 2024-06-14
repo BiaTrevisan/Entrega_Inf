@@ -14,7 +14,6 @@ Feito no Canva, preparamos uma apresentação para sala, apresentando a individu
 ![Captura de tela 2024-06-10 201425](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/5d8bbb82-4f90-4b6b-b5c0-9404c1d4cdbe)
 
 
-
 ## Trabalhos Excel
 
 Distribuir as aulas de cada turma para os professores
@@ -43,7 +42,8 @@ Simulação de sprint
 
 [GitHub](https://github.com/BiaTrevisan/Power-Bi_Modelo) 
 
-![dashboard Mayla e Bianca - (Página 1) (1)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/3acafd73-5803-45ec-8641-e0419deb6116)
+![POWER BI](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/2afc2c8e-adfd-4f70-9d19-e1a915768a0b)
+
 
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
