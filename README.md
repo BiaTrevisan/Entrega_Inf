@@ -8,7 +8,6 @@ O projeto consiste em propor uma melhoria continua ( Kaizen ) para a empresa EMT
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#funcionalidades-e-registros--das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
 # Projeto (FATEC API) 
