@@ -1,8 +1,8 @@
 # Aprendizado por Projeto Integrado (API) - 2024
 
-Projeto, para estudar possiveis cargas para o Aeroporto SJK.
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+O projeto consiste em propor uma melhoria continua ( Kaizen ) para a empresa EMTU nas areas de Inovação. Tendo como principais topicos do desenvolvimento:
+- Big data
+- Campanhas 
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -17,29 +17,32 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
 # Escopo inicial do projeto
-Desenvolver dashboard no Power bi, utilizando os dados do Comex Stat [LINK](http://comexstat.mdic.gov.br/pt/home) extraído e fornecido pelo cliente. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
+Desenvolver dashboard no Power bi. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
 
 # Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | Concluido |[Termo de abertura do Projeto](https://fatecspgov.sharepoint.com/:w:/s/PI-GrupoProjetoIntegrado/ERVgWtiZzmxKvKardK0d7UABvdHhrzd8VCLVRtyF44GVWw?e=0bQqH3) |
-|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
+|Kick Off | 11/03/2024 | Concluido |[Proposta](https://fatecspgov.sharepoint.com/:w:/s/PI-GrupoProjetoIntegrado/ERVgWtiZzmxKvKardK0d7UABvdHhrzd8VCLVRtyF44GVWw?e=0bQqH3) |
+|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true)[Apresentação] |
 |Sprint 02|  06/05/2024| Concluído | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
-|Sprint 03| 27/05/2024 | Concluido | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
-|Sprint 04| 17/06/2024 | Concluido |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Sprint 03| 27/05/2024 | à fazer |
+|Sprint 04| 17/06/2024 | à fazer |
 |Feira de Soluções|27/06/2027 | à fazer |
 
 # Objetivo do Projeto
-Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:  
-- Apoiar ações de captação de clientes com cargas, para serem transportados pelo aeroporto de São José dos Campos.   
-- Demonstrar para empresas aéreas que existe uma demanda não explorada no aeroporto analisado.
+Desenvolver um dashboard, com os seguintes objetivos:  
+- Apresentar ao cliente propostas de melhoria como o fluxo, controle de trafego;
+- Desenvolver tecnologias inovadores e eficazes.
   
 # Funcionalidades e ferramentas das Sprints
+![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
+![image](https://github.com/user-attachments/assets/269dbb4f-fd04-43b9-9c41-6cbd5bd17e2b)
+![image](https://github.com/user-attachments/assets/e78eb224-af7d-431f-b1b6-c75589ff3989)
+![image](https://github.com/user-attachments/assets/2b3e9c40-7f2f-462c-9085-0ef143820d76)
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Microsoft office
 * GitHub
@@ -50,61 +53,26 @@ Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:
 
 ## Sprint 1. Concepção
 - [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
-- [x] Visualização da estruturação do Projeto (Github, Jira Software, Slack).
+- [x] Visualização da estruturação do Projeto (Github, Outlook).
 - [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
 - [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [X] Dashboard em Power Bi com uma analise prévia.
-- [X] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
-- [X] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
-
-![image](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/4112f749-37f0-4cb7-b3d8-7423e3697a3e)
-
+- [ ] Dashboard com uma analise prévia.
+- [ ] Quais vizualizações o cliente vai ter.
+- [ ] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
 
 ## Sprint 3 . Implementação
-- [X] Dashboard no Power Bi com as informações da Sprint 2
-- [X] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
-- [X] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
-- [X] Uma  prévia da documentação/relatório do projeto
-
-![Capturar - 3](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/9a7b3856-8341-4f4c-998a-f25321f11806)
-
+- [ ] Dashboard com as informações da Sprint 2
+- [ ] Analise dos principais destinos das exportações do Vale do Paraíba ( Em analise )
+- [ ] Comparativo dos custos para promover o pagamento após o uso do transporte
+- [ ] Uma  prévia da documentação/relatório do projeto
 
 ## Sprint 4. Operacionalização
-- [X] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
-- [X] Acesso a documentação completa do projeto
-      
-![CAPT - 4](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/ea3a1578-15bf-4f62-825e-039925448264)
+- [ ] Dashboard com todas informações analisadas.
+- [ ] Acesso a documentação completa do projeto
 
-# Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
