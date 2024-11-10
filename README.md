@@ -1,77 +1,120 @@
-# Entrega de trabalhos de informática - 1° Semestre Log
+# Aprendizado por Projeto Integrado (API) - 2024
 
-Este GIT foi criado com o objetivo por apresentar tudo o que foi realizado durante o semestre.
+Projeto, para estudar possiveis cargas para o Aeroporto SJK.
+
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
-* [Apresentação](#apresentação)
-* [Registros das sprints](#registros)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Funcionalidades e registros das sprints](#funcionalidades-e-registros--das-sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
 
-# Registros 
+# Projeto (FATEC API) 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 
-## Apresentação em Grupo 📌
-▶️ Feito no Canva, preparamos uma apresentação para sala, apresentando a individualidade de cada membro‼️
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
-![Captura de tela 2024-06-10 201425](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/5d8bbb82-4f90-4b6b-b5c0-9404c1d4cdbe)
+# Escopo inicial do projeto
+Desenvolver dashboard no Power bi, utilizando os dados do Comex Stat [LINK](http://comexstat.mdic.gov.br/pt/home) extraído e fornecido pelo cliente. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
+
+# Cronograma
+Sprint | Previsão | Status| Documentos |
+|------|--------|------|--------|
+|Kick Off | 11/03/2024 | Concluido |[Termo de abertura do Projeto](https://fatecspgov.sharepoint.com/:w:/s/PI-GrupoProjetoIntegrado/ERVgWtiZzmxKvKardK0d7UABvdHhrzd8VCLVRtyF44GVWw?e=0bQqH3) |
+|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
+|Sprint 02|  06/05/2024| Concluído | [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/anexo_8_modelo_relatorio_projeto_integrador_log%201.docx?d=w063478b3fffb4fe1ac946d6fe3fcfa8a&csf=1&web=1&e=cNFrwA) |
+|Sprint 03| 27/05/2024 | Concluido | [Relatorio do Projeto](https://github.com/user-attachments/files/15876366/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Sprint 04| 17/06/2024 | Concluido |[Relatorio do Projeto](https://github.com/user-attachments/files/15876369/Relatorio.API.-.Sprint.3.Logistica.periodo.noturno.pdf)
+|Feira de Soluções|27/06/2027 | à fazer |
+
+# Objetivo do Projeto
+Desenvolver um dashboard utilizando o Power BI, com os seguintes objetivos:  
+- Apoiar ações de captação de clientes com cargas, para serem transportados pelo aeroporto de São José dos Campos.   
+- Demonstrar para empresas aéreas que existe uma demanda não explorada no aeroporto analisado.
+  
+# Funcionalidades e ferramentas das Sprints
 
 
-## Trabalhos Excel ✔️
-▶️ Distribuir as aulas de cada turma para os professores‼️
+## Tecnologias Utilizadas
 
-![Captura de tela 2024-06-10 195641](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8e50587a-0b95-4e35-9575-6ac6872c8188)
+* Jira Software
+* Power BI
+* Microsoft office
+* GitHub
 
-▶️ Fazer analise de despesas aplicando formulas‼️
 
-![Captura de tela 2024-06-10 195833](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/4ea8d835-a1bb-43cf-8f6d-d49bb1469d37)
-![Captura de tela 2024-06-10 195904](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/f81430a5-a232-42fd-a61e-6d8a8c54a0b4)
 
-▶️ Organizar receitas dos seguintes comercios‼️
+# Backlog do produto
 
-![Captura de tela 2024-06-10 200412](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/8fbafb77-84a5-411a-a5ad-e53967c4b8b5)
-![Captura de tela 2024-06-10 200352](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/9573adeb-113b-484a-b325-0fc9e695f150)
-![Captura de tela 2024-06-10 200227](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/b5f46c52-8c8c-47f8-a429-e0c202ec8de7)
+## Sprint 1. Concepção
+- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
+- [x] Visualização da estruturação do Projeto (Github, Jira Software, Slack).
+- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
+- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 
-|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
+## Sprint 2. Desenvolvimento do Projeto
+- [X] Dashboard em Power Bi com uma analise prévia.
+- [X] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
+- [X] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
+
+![image](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/4112f749-37f0-4cb7-b3d8-7423e3697a3e)
+
+
+## Sprint 3 . Implementação
+- [X] Dashboard no Power Bi com as informações da Sprint 2
+- [X] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
+- [X] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
+- [X] Uma  prévia da documentação/relatório do projeto
+
+![Capturar - 3](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/9a7b3856-8341-4f4c-998a-f25321f11806)
+
+
+## Sprint 4. Operacionalização
+- [X] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
+- [X] Acesso a documentação completa do projeto
+      
+![CAPT - 4](https://github.com/BiaTrevisan/SJK-EXP/assets/163362315/ea3a1578-15bf-4f62-825e-039925448264)
+
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+
+</details>
+
+# Autores
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
-
-
-## Trabalho Power BI 🧮
-
-▶️ Simulação de sprint‼️ 
-
-[GitHub](https://github.com/BiaTrevisan/Power-Bi_Modelo) 
-
-![POWER BI](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/2afc2c8e-adfd-4f70-9d19-e1a915768a0b)
-
-
-|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
-| Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
-
-## Trabalho Power App 📱
-
-▶️ Criação de Aplicativo‼️ 
-
-![imagem (4)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/270e22ad-850d-4808-b3c2-a6a0b53de5ee)
-![imagem (5)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/ba38aece-30e0-48d2-b2a7-62735fc20a2c)
-![imagem (6)](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/73310865-27dc-40ec-b26b-f07e7525a213)
-
-|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
-| Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
-
-## Trabalho Power Automate ✒️
-
-▶️ Criação de Comando‼️ 
-
-![print](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/51bf63fd-3f41-403a-a9ae-eb5e8a9134d9)
-![123](https://github.com/BiaTrevisan/Entrega_Inf/assets/163362315/ef8e0008-d50a-4391-b28b-3aabafa1ebbc)
-
-
-|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
-| Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
+| Product Owner |   Bianca Trevisan         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/biancastrevisan) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |
+| Scrum Master  | Gabriel Barradas |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbarradas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielbarradasfatec)     |
+| Team Member   | João Gabriel Breves              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/joão-breves) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoBreves)        |
+|  Team Member  | Luan Martins                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/luanmartins00) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LuanMartins00)        |
+|  Team Member  | Mariana Faria                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/marianacdefaria) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](Marifaria2 (github.com))   |
+|  Team Member  | Mayla de Paula    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mayladepaula) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 
