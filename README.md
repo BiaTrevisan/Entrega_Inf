@@ -22,7 +22,7 @@ Desenvolver dashboard no Power bi. Através da visualização dos dados organiza
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Concluido | |
-|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true)[Apresentação](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Apresentac%CC%A7a%CC%83o%20tecnolo%CC%81gica%20azul%20de%20dashboards%20e%20relato%CC%81rios%20financeiro.pdf) |
+|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true)[ Apresentação](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Apresentac%CC%A7a%CC%83o%20tecnolo%CC%81gica%20azul%20de%20dashboards%20e%20relato%CC%81rios%20financeiro.pdf) |
 |Sprint 02|  06/05/2024| Concluído |  
 |Sprint 03| 27/05/2024 | à fazer |
 |Sprint 04| 17/06/2024 | à fazer |
