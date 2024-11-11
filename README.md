@@ -36,7 +36,7 @@ Desenvolver um dashboard, com os seguintes objetivos:
 # Funcionalidades e ferramentas das Sprints
 ![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
 ![image](https://github.com/user-attachments/assets/269dbb4f-fd04-43b9-9c41-6cbd5bd17e2b)
-![image](https://github.com/user-attachments/assets/a4915064-7700-4f55-b24f-a7ba9cbf429d)
+![image](https://github.com/user-attachments/assets/626dd28c-4439-4b67-94c8-1ab30cdb828d)
 ![image](https://github.com/user-attachments/assets/6e30c417-2776-41c0-8e41-8f1e36555d56)
 
 
@@ -46,6 +46,7 @@ Desenvolver um dashboard, com os seguintes objetivos:
 * Power BI
 * Microsoft office
 * GitHub
+* Pyton
 
 
 
