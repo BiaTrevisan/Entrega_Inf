@@ -35,7 +35,7 @@ Desenvolver um dashboard, com os seguintes objetivos:
   
 # Funcionalidades e ferramentas das Sprints
 ![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
-![image](https://github.com/user-attachments/assets/269dbb4f-fd04-43b9-9c41-6cbd5bd17e2b)
+![image](https://github.com/user-attachments/assets/1b9f883b-ea89-435f-aff7-981af4a60061)
 ![image](https://github.com/user-attachments/assets/6c17916e-1e8e-46a1-8f68-456d4b4eeaf6)
 ![image](https://github.com/user-attachments/assets/6e30c417-2776-41c0-8e41-8f1e36555d56)
 
@@ -57,11 +57,16 @@ Desenvolver um dashboard, com os seguintes objetivos:
 - [x] Visualização da estruturação do Projeto (Github, Outlook).
 - [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
 - [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
+- [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
+
+[!Apresentação](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Apresentac%CC%A7a%CC%83o%20tecnolo%CC%81gica%20azul%20de%20dashboards%20e%20relato%CC%81rios%20financeiro.pdf)
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Dashboard com uma analise prévia.
 - [ ] Quais vizualizações o cliente vai ter.
 - [ ] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
+- [X] Pesquisar sobre as possiveis ferramentas de monitoramento.
+- [ ] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
 
 ## Sprint 3 . Implementação
 - [ ] Dashboard com as informações da Sprint 2
