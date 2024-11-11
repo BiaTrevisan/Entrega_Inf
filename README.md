@@ -22,11 +22,11 @@ Desenvolver dashboard no Power bi. Através da visualização dos dados organiza
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Concluido | |
-|Sprint 01 | 15/04/2024| Concluido |  [Relatorio do Projeto](https://fatecspgov-my.sharepoint.com/:w:/r/personal/bianca_trevisan_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BEFD7AF8F-719D-4600-8447-C940DB55B103%7D&file=anexo_8_modelo_relatorio_projeto_integrador_log.docx&wdOrigin=TEAMS-WEB.p2p_ns.rwc&action=default&mobileredirect=true) |
-|Sprint 02|  06/05/2024| Concluído |  
-|Sprint 03| 27/05/2024 | à fazer |
-|Sprint 04| 17/06/2024 | à fazer |
-|Feira de Soluções|27/06/2027 | à fazer |
+|Sprint 01 | 07/10/2024| Concluido |   |
+|Sprint 02|  11/11/2024| Concluído |  
+|Sprint 03| 25/11/2024 | à fazer |
+|Sprint 04| 09/12/2024 | à fazer |
+|Feira de Soluções|12/12/2027 | à fazer |
 
 # Objetivo do Projeto
 Desenvolver um dashboard, com os seguintes objetivos:  
