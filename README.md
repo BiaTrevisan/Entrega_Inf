@@ -59,7 +59,8 @@ Desenvolver um dashboard, com os seguintes objetivos:
 - [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 - [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
 
-[!Apresentação](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Apresentac%CC%A7a%CC%83o%20tecnolo%CC%81gica%20azul%20de%20dashboards%20e%20relato%CC%81rios%20financeiro.pdf)
+[Apresentação tecnológica azul de dashboards e relatórios financeiro.pdf](https://github.com/user-attachments/files/17693863/Apresentacao.tecnologica.azul.de.dashboards.e.relatorios.financeiro.pdf)
+
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Dashboard com uma analise prévia.
