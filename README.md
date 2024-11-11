@@ -37,7 +37,8 @@ Desenvolver um dashboard, com os seguintes objetivos:
 ![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
 ![image](https://github.com/user-attachments/assets/269dbb4f-fd04-43b9-9c41-6cbd5bd17e2b)
 ![image](https://github.com/user-attachments/assets/e78eb224-af7d-431f-b1b6-c75589ff3989)
-![image](https://github.com/user-attachments/assets/2b3e9c40-7f2f-462c-9085-0ef143820d76)
+![image](https://github.com/user-attachments/assets/6e30c417-2776-41c0-8e41-8f1e36555d56)
+
 
 
 ## Tecnologias Utilizadas
