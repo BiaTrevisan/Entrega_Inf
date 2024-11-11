@@ -59,7 +59,10 @@ Desenvolver um dashboard, com os seguintes objetivos:
 - [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 - [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
 
-[Apresentação tecnológica azul de dashboards e relatórios financeiro.pdf](https://github.com/user-attachments/files/17693863/Apresentacao.tecnologica.azul.de.dashboards.e.relatorios.financeiro.pdf)
+![1](https://github.com/user-attachments/assets/39edccc3-c42c-4c76-b067-3791433c02f6)[Apresentação Projeto EMTU.pdf](https://github.com/user-attachments/files/17693863/Apresentacao.tecnologica.azul.de.dashboards.e.relatorios.financeiro.pdf)
+[Estudo sobre a introdução de sistemas inteligentes de transporte na RFB.pdf](https://github.com/user-attachments/files/17693874/Estudo.sobre.a.introducao.de.sistemas.inteligentes.de.transporte.na.RFB.pdf)
+
+
 
 
 ## Sprint 2. Desenvolvimento do Projeto
