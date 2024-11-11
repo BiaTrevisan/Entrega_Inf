@@ -35,7 +35,7 @@ Desenvolver um dashboard, com os seguintes objetivos:
   
 # Funcionalidades e ferramentas das Sprints
 ![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
-![image](https://github.com/user-attachments/assets/9141ae3f-18e4-4e01-aeaa-467f520b430c)
+![image](https://github.com/user-attachments/assets/ab56b737-af0e-44fb-9bac-95f1c6d71cb9)
 ![image](https://github.com/user-attachments/assets/6c17916e-1e8e-46a1-8f68-456d4b4eeaf6)
 ![image](https://github.com/user-attachments/assets/6e30c417-2776-41c0-8e41-8f1e36555d56)
 
