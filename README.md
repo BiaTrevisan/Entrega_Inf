@@ -68,13 +68,13 @@ Desenvolver um dashboard, com os seguintes objetivos:
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Dashboard com uma analise prévia.
 - [ ] Quais vizualizações o cliente vai ter.
-- [ ] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
+- [X] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
 - [X] Pesquisar sobre as possiveis ferramentas de monitoramento.
-- [ ] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
+- [X] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
 
 ## Sprint 3 . Implementação
 - [ ] Dashboard com as informações da Sprint 2
-- [ ] Analise dos principais destinos das exportações do Vale do Paraíba ( Em analise )
+- [X] Analise dos destinos de acordo com a planilha de rotas
 - [ ] Comparativo dos custos para promover o pagamento após o uso do transporte
 - [ ] Uma  prévia da documentação/relatório do projeto
 
