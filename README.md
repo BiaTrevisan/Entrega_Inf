@@ -50,57 +50,29 @@ Desenvolver um dashboard, com os seguintes objetivos:
 
 
 
-# Backlog do produto
+## 🗓️ **Cronograma do Projeto**
 
-## Sprint 1. Concepção
-- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
-- [x] Visualização da estruturação do Projeto (Github, Outlook).
-- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
-- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
-- [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
+Este cronograma detalha as etapas planejadas para o desenvolvimento do projeto, com foco na implementação de sistemas de monitoramento, integração de tecnologias e soluções inteligentes de transporte.
 
-![1](https://github.com/user-attachments/assets/39edccc3-c42c-4c76-b067-3791433c02f6)
-[Estudo sobre a introdução de sistemas inteligentes de transporte na RFB.pdf](https://github.com/user-attachments/files/17693874/Estudo.sobre.a.introducao.de.sistemas.inteligentes.de.transporte.na.RFB.pdf)
+| **Etapa**                    | **Descrição**                                                                                     | **Responsáveis**         | **Data de Início** | **Data de Conclusão** |
+|-------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|--------------------|------------------------|
+| **1. Pesquisa Inicial**       | Coleta de informações sobre VICS, ITS Spot e PMVs, bem como análise de iniciativas Smart City.    | Ana Clara, Bianca        | 01/12/2024         | 07/12/2024            |
+| **2. Planejamento Geral**     | Estruturação do projeto, definição de sprints e recursos necessários.                            | Reinaldo, João Vitor     | 08/12/2024         | 14/12/2024            |
+| **3. Design do Dashboard**    | Criação do layout inicial do dashboard e definição de KPIs de tráfego e transporte.              | Isabela, Mariana         | 15/12/2024         | 21/12/2024            |
+| **4. Desenvolvimento Inicial**| Implementação básica do sistema de monitoramento e integração dos painéis PMVs.                 | Mayla, João Vitor        | 22/12/2024         | 04/01/2025            |
+| **5. Testes do Sistema**      | Validação das funcionalidades implementadas e ajustes conforme necessário.                       | Equipe completa          | 05/01/2025         | 11/01/2025            |
+| **6. Implementação Final**    | Integração de todos os sistemas e validação em ambiente de produção.                             | Todos os membros         | 12/01/2025         | 18/01/2025            |
+| **7. Entrega Final**          | Apresentação do projeto e entrega formal ao cliente.                                             | Ana Clara, Bianca        | 19/01/2025         | 20/01/2025            |
 
+---
 
+> **Legenda de Responsáveis:**  
+> - Ana Clara: Scrum Master  
+> - Bianca: Product Owner  
+> - Isabela, Reinaldo, Mayla, Mariana, João Vitor: Equipe de Desenvolvimento
 
+> **Nota:** Este cronograma está sujeito a ajustes conforme o andamento do projeto.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Dashboard com uma analise prévia.
-- [ ] Quais vizualizações o cliente vai ter.
-- [X] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
-- [X] Pesquisar sobre as possiveis ferramentas de monitoramento.
-- [X] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
-
-## Sprint 3 . Implementação
-- [ ] Dashboard com as informações da Sprint 2
-- [X] Analise dos destinos de acordo com a planilha de rotas
-- [ ] Comparativo dos custos para promover o pagamento após o uso do transporte
-- [ ] Uma  prévia da documentação/relatório do projeto
-
-## Sprint 4. Operacionalização
-- [ ] Dashboard com todas informações analisadas.
-- [ ] Acesso a documentação completa do projeto
-
-## 📂 **Documentos e Planilhas**
-
-Nesta seção, você encontrará todos os arquivos utilizados durante o desenvolvimento do projeto. Clique nos links abaixo para acessar os documentos:
-
-### 📄 **Planilhas de Controle**
-| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
-|---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://link_da_planilha) |
-| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://link_da_planilha) |
-
-### 📑 **Documentos de Referência**
-| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
-|---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://link_do_documento) |
-| 📜 **Guia de Estilo**                  | Normas e padrões de design.               | [Acessar Documento](https://link_do_documento) |
-
-### 📂 **Outros Arquivos Importantes**
-- [📎 Proposta Inicial do Projeto](https://link_para_proposta)
-- [📎 Apresentação do Projeto](https://link_para_apresentacao)
 
 
 </details>
