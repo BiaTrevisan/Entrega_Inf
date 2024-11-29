@@ -4,12 +4,6 @@ O projeto consiste em propor uma melhoria continua ( Kaizen ) para a empresa EMT
 - Big data
 - Campanhas 
 
-# Índice
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros das sprints](#funcionalidades-e-registros--das-sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Autores](#autores)
-
 # Projeto (FATEC API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 
@@ -18,89 +12,73 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 # Escopo inicial do projeto
 Desenvolver dashboard no Power bi. Através da visualização dos dados organizados no dashboard, deve ser possível levantar oportunidades para aumentar o volume de cargas no aeroporto SJK.   
 
-# Cronograma
-Sprint | Previsão | Status| Documentos |
-|------|--------|------|--------|
-|Kick Off | 11/03/2024 | Concluido | |
-|Sprint 01 | 07/10/2024| Concluido |   |
-|Sprint 02|  11/11/2024| Concluído |  
-|Sprint 03| 25/11/2024 | à fazer |
-|Sprint 04| 09/12/2024 | à fazer |
-|Feira de Soluções|12/12/2027 | à fazer |
-
 # Objetivo do Projeto
 Desenvolver um dashboard, com os seguintes objetivos:  
 - Apresentar ao cliente propostas de melhoria como o fluxo, controle de trafego;
 - Desenvolver tecnologias inovadores e eficazes.
-  
-# Funcionalidades e ferramentas das Sprints
-![image](https://github.com/user-attachments/assets/7e32ca44-e37b-4753-9055-d8809c70518b)
-![image](https://github.com/user-attachments/assets/ab56b737-af0e-44fb-9bac-95f1c6d71cb9)
-![image](https://github.com/user-attachments/assets/6c17916e-1e8e-46a1-8f68-456d4b4eeaf6)
-![image](https://github.com/user-attachments/assets/6e30c417-2776-41c0-8e41-8f1e36555d56)
 
+## 📎 **Proposta Inicial do Projeto**
 
+Este documento apresenta a proposta inicial para o desenvolvimento de um sistema de mobilidade urbana inteligente, utilizando tecnologias avançadas para melhorar o transporte público e a qualidade de vida dos cidadãos.
 
-## Tecnologias Utilizadas
+---
 
-* Power BI
-* Microsoft office
-* GitHub
-* Pyton
+### 📝 **Visão Geral**
+O projeto visa implementar um sistema integrado de monitoramento de tráfego, otimização de rotas e visualização de dados, com base em conceitos de Smart Cities e tecnologias como inteligência artificial e sistemas de transporte inteligentes (ITS).
 
+---
 
+### 🎯 **Objetivos do Projeto**
+1. **Reduzir o tempo médio de viagem:** Fornecendo rotas otimizadas em tempo real.
+2. **Aumentar a eficiência do transporte público:** Melhorando a gestão da frota e horários.
+3. **Promover a sustentabilidade:** Utilizando energia limpa e reduzindo o impacto ambiental.
+4. **Melhorar a segurança nas vias:** Através de alertas em tempo real sobre condições adversas.
 
-# Backlog do produto
+---
 
-## Sprint 1. Concepção
-- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
-- [x] Visualização da estruturação do Projeto (Github, Outlook).
-- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
-- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
-- [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
+### 🛠️ **Soluções Propostas**
+1. **Dashboard Interativo:**
+   - Visualização de dados de tráfego, horários de pico e KPIs.
+   - Ferramentas para monitoramento e tomada de decisão.
 
-![1](https://github.com/user-attachments/assets/39edccc3-c42c-4c76-b067-3791433c02f6)
-[Estudo sobre a introdução de sistemas inteligentes de transporte na RFB.pdf](https://github.com/user-attachments/files/17693874/Estudo.sobre.a.introducao.de.sistemas.inteligentes.de.transporte.na.RFB.pdf)
+2. **Sistemas de Monitoramento:**
+   - **VICS:** Fornecimento de informações de tráfego em tempo real.
+   - **ITS Spot:** Integração veículo-infraestrutura para otimização de rotas.
+   - **PMVs:** Exibição de mensagens variáveis para motoristas em pontos estratégicos.
 
+3. **Integração de Pagamentos:**
+   - Opção de pagamento digital em transporte público.
+   - Soluções inspiradas em aplicativos como Uber e 99.
 
+---
 
+### 🗓️ **Cronograma Resumido**
+| **Etapa**                | **Descrição**                                  | **Prazo**          |
+|--------------------------|-----------------------------------------------|--------------------|
+| **1. Pesquisa Inicial**  | Coleta de dados e análise de sistemas atuais. | 01/12/2024         |
+| **2. Planejamento Geral**| Estruturação do escopo e definição de KPIs.   | 08/12/2024         |
+| **3. Desenvolvimento**   | Implementação do sistema e integrações.       | 22/12/2024         |
+| **4. Testes e Ajustes**  | Validação do sistema e melhorias.             | 05/01/2025         |
+| **5. Entrega Final**     | Apresentação ao cliente.                      | 20/01/2025         |
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Dashboard com uma analise prévia.
-- [ ] Quais vizualizações o cliente vai ter.
-- [X] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
-- [X] Pesquisar sobre as possiveis ferramentas de monitoramento.
-- [X] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
+---
 
-## Sprint 3 . Implementação
-- [ ] Dashboard com as informações da Sprint 2
-- [X] Analise dos destinos de acordo com a planilha de rotas
-- [ ] Comparativo dos custos para promover o pagamento após o uso do transporte
-- [ ] Uma  prévia da documentação/relatório do projeto
+### 📈 **Benefícios Esperados**
+- **Eficiência no transporte público:** Redução de atrasos e melhor experiência para os passageiros.
+- **Sustentabilidade:** Menor emissão de carbono através de sistemas otimizados.
+- **Tomada de decisão baseada em dados:** Ferramentas analíticas para gestores de transporte.
 
-## Sprint 4. Operacionalização
-- [ ] Dashboard com todas informações analisadas.
-- [ ] Acesso a documentação completa do projeto
+---
 
-## 📂 **Documentos e Planilhas**
+### 🤝 **Parcerias Estratégicas**
+- Empresas de tecnologia e transporte público.
+- Instituições públicas para validação e suporte do sistema.
+- Indústria de painéis e sensores inteligentes.
 
-Nesta seção, você encontrará todos os arquivos utilizados durante o desenvolvimento do projeto. Clique nos links abaixo para acessar os documentos:
+---
 
-### 📄 **Planilhas de Controle**
-| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
-|---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://link_da_planilha) |
-| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://link_da_planilha) |
+> **Nota:** Esta proposta inicial é um guia para o desenvolvimento do projeto e poderá ser ajustada conforme a evolução das demandas e desafios.
 
-### 📑 **Documentos de Referência**
-| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
-|---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://link_do_documento) |
-| 📜 **Guia de Estilo**                  | Normas e padrões de design.               | [Acessar Documento](https://link_do_documento) |
-
-### 📂 **Outros Arquivos Importantes**
-- [📎 Proposta Inicial do Projeto](https://link_para_proposta)
-- [📎 Apresentação do Projeto](https://link_para_apresentacao)
 
 
 </details>
