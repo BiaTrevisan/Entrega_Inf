@@ -82,6 +82,25 @@ Desenvolver um dashboard, com os seguintes objetivos:
 - [ ] Dashboard com todas informações analisadas.
 - [ ] Acesso a documentação completa do projeto
 
+## 📂 **Documentos e Planilhas**
+
+Nesta seção, você encontrará todos os arquivos utilizados durante o desenvolvimento do projeto. Clique nos links abaixo para acessar os documentos:
+
+### 📄 **Planilhas de Controle**
+| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
+|---------------------------------------|--------------------------------------------|---------------------------------------|
+| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://link_da_planilha) |
+| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://link_da_planilha) |
+
+### 📑 **Documentos de Referência**
+| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
+|---------------------------------------|--------------------------------------------|---------------------------------------|
+| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://link_do_documento) |
+| 📜 **Guia de Estilo**                  | Normas e padrões de design.               | [Acessar Documento](https://link_do_documento) |
+
+### 📂 **Outros Arquivos Importantes**
+- [📎 Proposta Inicial do Projeto](https://link_para_proposta)
+- [📎 Apresentação do Projeto](https://link_para_apresentacao)
 
 
 </details>
