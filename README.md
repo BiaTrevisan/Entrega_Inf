@@ -24,7 +24,7 @@ Sprint | Previsão | Status| Documentos |
 |Kick Off | 11/03/2024 | Concluido | |
 |Sprint 01 | 07/10/2024| Concluido |   |
 |Sprint 02|  11/11/2024| Concluído |  
-|Sprint 03| 25/11/2024 | à fazer |
+|Sprint 03| 25/11/2024 | Concluído |
 |Sprint 04| 09/12/2024 | à fazer |
 |Feira de Soluções|12/12/2027 | à fazer |
 
@@ -56,13 +56,13 @@ Este cronograma detalha as etapas planejadas para o desenvolvimento do projeto, 
 
 | **Etapa**                    | **Descrição**                                                                                     | **Responsáveis**         | **Data de Início** | **Data de Conclusão** |
 |-------------------------------|---------------------------------------------------------------------------------------------------|--------------------------|--------------------|------------------------|
-| **1. Pesquisa Inicial**       | Coleta de informações sobre VICS, ITS Spot e PMVs, bem como análise de iniciativas Smart City.    | Ana Clara, Bianca        | 01/12/2024         | 07/12/2024            |
-| **2. Planejamento Geral**     | Estruturação do projeto, definição de sprints e recursos necessários.                            | Reinaldo, João Vitor     | 08/12/2024         | 14/12/2024            |
-| **3. Design do Dashboard**    | Criação do layout inicial do dashboard e definição de KPIs de tráfego e transporte.              | Isabela, Mariana         | 15/12/2024         | 21/12/2024            |
-| **4. Desenvolvimento Inicial**| Implementação básica do sistema de monitoramento e integração dos painéis PMVs.                 | Mayla, João Vitor        | 22/12/2024         | 04/01/2025            |
-| **5. Testes do Sistema**      | Validação das funcionalidades implementadas e ajustes conforme necessário.                       | Equipe completa          | 05/01/2025         | 11/01/2025            |
-| **6. Implementação Final**    | Integração de todos os sistemas e validação em ambiente de produção.                             | Todos os membros         | 12/01/2025         | 18/01/2025            |
-| **7. Entrega Final**          | Apresentação do projeto e entrega formal ao cliente.                                             | Ana Clara, Bianca        | 19/01/2025         | 20/01/2025            |
+| **1. Pesquisa Inicial**       | Coleta de informações sobre VICS, ITS Spot e PMVs, bem como análise de iniciativas Smart City.    | Bianca        | 03/10/2024         | 07/10/2024            |
+| **2. Planejamento Geral**     | Estruturação do projeto, definição de sprints e recursos necessários.                            | Reinaldo, Mariana     | 03/12/2024        | 14/12/2024            |
+| **3. Design do Dashboard**    | Criação do layout inicial do dashboard e definição de KPIs de tráfego e transporte.              | Isabela, Ana Clara         | 07/10/2024         | 25/11/2024            |
+| **4. Desenvolvimento Inicial**| Criação da sistematização teoricamente.                                                          | Todos os membros       | 07/11/2024         | 25/11/2024            |
+| **5. Desenvolvimento do Sistema**  | Validação das funcionalidades implementadas e ajustes conforme necessário.                  | Todos os membros          | 11/11/2024        | 25/11/2024            |
+| **6. Implementação Final**    | Integração de todas atividades desenvolvidar                                                     | Todos os membros         | 11/11/2024         | 09/12/2024            |
+| **7. Entrega Final**          | Apresentação do projeto e entrega formal ao cliente.                                             | Isabela, Reinaldo        |  09/12/2024         |  09/12/2024          |
 
 ---
 
