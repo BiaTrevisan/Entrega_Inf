@@ -89,17 +89,17 @@ Nesta seção, você encontrará todos os arquivos utilizados durante o desenvol
 ### 📄 **Planilhas de Controle**
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://link_da_planilha) |
-| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://link_da_planilha) |
+| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf.git) |
+| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf.git) |
 
 ### 📑 **Documentos de Referência**
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://link_do_documento) |
+| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://github.com/BiaTrevisan/Entrega_Inf.git) |
 | 📜 **Guia de Estilo**                  | Normas e padrões de design.               | [Acessar Documento](https://link_do_documento) |
 
 ### 📂 **Outros Arquivos Importantes**
-- [📎 Proposta Inicial do Projeto](https://link_para_proposta)
+- [📎 Proposta Inicial do Projeto](https://github.com/BiaTrevisan/Entrega_Inf.git)
 - [📎 Apresentação do Projeto](https://link_para_apresentacao)
 
 
