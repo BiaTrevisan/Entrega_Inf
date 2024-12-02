@@ -90,7 +90,6 @@ Nesta seção, você encontrará todos os arquivos utilizados durante o desenvol
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
 | 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar](https://github.com/BiaTrevisan/Entrega_Inf/blob/Cronograma-do-Projeto/README.md) |
-| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf/blob/Metricas/README.md) |
 
 
 ### 📂 **Outros Arquivos Importantes**
