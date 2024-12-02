@@ -89,7 +89,7 @@ Nesta seção, você encontrará todos os arquivos utilizados durante o desenvol
 ### 📄 **Planilhas de Controle**
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf.git) |
+| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Pasta%202.xlsx?d=wad718df699e3463197569b274012dc67&csf=1&web=1&e=JUJKRQ) |
 | 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf.git) |
 
 ### 📑 **Documentos de Referência**
