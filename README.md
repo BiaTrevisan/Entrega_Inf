@@ -89,17 +89,12 @@ Nesta seção, você encontrará todos os arquivos utilizados durante o desenvol
 ### 📄 **Planilhas de Controle**
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar Planilha](https://fatecspgov-my.sharepoint.com/:x:/r/personal/bianca_trevisan_fatec_sp_gov_br/Documents/Pasta%202.xlsx?d=wad718df699e3463197569b274012dc67&csf=1&web=1&e=JUJKRQ) |
-| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf.git) |
+| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar](https://github.com/BiaTrevisan/Entrega_Inf/blob/Cronograma-do-Projeto/README.md) |
+| 📈 **Métricas de Desempenho**          | Dados e KPIs coletados durante o projeto.  | [Acessar Planilha](https://github.com/BiaTrevisan/Entrega_Inf/blob/Metricas/README.md) |
 
-### 📑 **Documentos de Referência**
-| Nome do Documento                     | Descrição                                  | Link para Acesso                      |
-|---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📝 **Especificação do Projeto**         | Detalhes técnicos e requisitos funcionais. | [Acessar Documento](https://github.com/BiaTrevisan/Entrega_Inf.git) |
-| 📜 **Guia de Estilo**                  | Normas e padrões de design.               | [Acessar Documento](https://link_do_documento) |
 
 ### 📂 **Outros Arquivos Importantes**
-- [📎 Proposta Inicial do Projeto](https://github.com/BiaTrevisan/Entrega_Inf.git)
+- [📎 Proposta Inicial do Projeto](file:///D:/EMTU%20-%20Sprint%201/Estudo%20sobre%20a%20introdu%C3%A7%C3%A3o%20de%20sistemas%20inteligentes%20de%20transporte%20na%20RFB.pdf)
 - [📎 Apresentação do Projeto](https://link_para_apresentacao)
 
 
