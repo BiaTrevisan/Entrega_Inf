@@ -89,12 +89,12 @@ Nesta seção, você encontrará todos os arquivos utilizados durante o desenvol
 ### 📄 **Planilhas de Controle**
 | Nome do Documento                     | Descrição                                  | Link para Acesso                      |
 |---------------------------------------|--------------------------------------------|---------------------------------------|
-| 📊 **Cronograma do Projeto**           | Planejamento detalhado das etapas do projeto. | [Acessar](https://github.com/BiaTrevisan/Entrega_Inf/blob/Cronograma-do-Projeto/README.md) |
-
+| 📊 **Cronograma do Projeto**           | Planejamento das etapas do projeto. | [Acessar](https://fatec-team-swift-move.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog) |
+| 📊 **Dashboard**           | Dashboard | [Power BI](https://app.powerbi.com/links/DF4X2ju4WU?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare) |
 
 ### 📂 **Outros Arquivos Importantes**
-- [📎 Proposta Inicial do Projeto](file:///D:/EMTU%20-%20Sprint%201/Estudo%20sobre%20a%20introdu%C3%A7%C3%A3o%20de%20sistemas%20inteligentes%20de%20transporte%20na%20RFB.pdf)
-- [📎 Apresentação do Projeto](https://link_para_apresentacao)
+- [📎 Proposta Inicial do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/relatorio%20projeto6.pdf)
+- [📎 Apresentação do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/API%20-%20Swift%20Move-%202%C2%BA%20Semestre%20.pdf)
 
 
 </details>
