@@ -21,12 +21,12 @@ Desenvolver dashboard no Power bi. Através da visualização dos dados organiza
 # Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
-|Kick Off | 03/10/2024 | Concluido |[📎 Proposta Inicial do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Estudo%20sobre%20a%20introdu%C3%A7%C3%A3o%20de%20sistemas%20inteligentes%20de%20transporte%20na%20RFB.pdf) |
+|Kick Off | 03/10/2024 | Concluido |[📎 Proposta](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Estudo%20sobre%20a%20introdu%C3%A7%C3%A3o%20de%20sistemas%20inteligentes%20de%20transporte%20na%20RFB.pdf) |
 |Sprint 01 | 07/10/2024| Concluido |   |
 |Sprint 02|  11/11/2024| Concluído |  
 |Sprint 03| 25/11/2024 | Concluído |
 |Sprint 04| 09/12/2024 | Concluído |
-|Feira de Soluções|12/12/2027 | Concluído |[📎 Proposta Inicial do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/relatorio%20projeto6.pdf)|
+|Feira de Soluções|12/12/2027 | Concluído |[Apresentação](file:///C:/Users/PPCP-BetelAerointeri/Downloads/relatorio%20projeto6.pdf)|
 
 # Objetivo do Projeto
 Desenvolver um dashboard, com os seguintes objetivos:  
