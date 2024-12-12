@@ -47,7 +47,7 @@ Desenvolver um dashboard, com os seguintes objetivos:
 * Microsoft office
 * GitHub
 * Pyton
-
+* Jira
 
 
 ## 🗓️ **Cronograma do Projeto**
@@ -64,6 +64,7 @@ Este cronograma detalha as etapas planejadas para o desenvolvimento do projeto, 
 | **6. Implementação Final**    | Integração de todas atividades desenvolvidar                                                     | Todos os membros         | 11/11/2024         | 09/12/2024            |
 | **7. Entrega Final**          | Apresentação do projeto e entrega formal ao cliente.                                             | Isabela, Reinaldo        |  09/12/2024         |  09/12/2024          |
 
+| **Controle de tarefas**          | ![Jira Software](https://fatec-team-swift-move.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)                                             |
 ---
 
 > **Legenda de Responsáveis:**  
