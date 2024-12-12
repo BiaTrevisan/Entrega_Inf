@@ -21,12 +21,12 @@ Desenvolver dashboard no Power bi. Através da visualização dos dados organiza
 # Cronograma
 Sprint | Previsão | Status| Documentos |
 |------|--------|------|--------|
-|Kick Off | 03/10/2024 | Concluido | |
+|Kick Off | 03/10/2024 | Concluido |[📎 Proposta Inicial do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/Estudo%20sobre%20a%20introdu%C3%A7%C3%A3o%20de%20sistemas%20inteligentes%20de%20transporte%20na%20RFB.pdf) |
 |Sprint 01 | 07/10/2024| Concluido |   |
 |Sprint 02|  11/11/2024| Concluído |  
 |Sprint 03| 25/11/2024 | Concluído |
-|Sprint 04| 09/12/2024 | à fazer |
-|Feira de Soluções|12/12/2027 | à fazer |
+|Sprint 04| 09/12/2024 | Concluído |
+|Feira de Soluções|12/12/2027 | Concluído |[📎 Proposta Inicial do Projeto](file:///C:/Users/PPCP-BetelAerointeri/Downloads/relatorio%20projeto6.pdf)|
 
 # Objetivo do Projeto
 Desenvolver um dashboard, com os seguintes objetivos:  
@@ -59,28 +59,22 @@ Desenvolver um dashboard, com os seguintes objetivos:
 - [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
 - [X] Dividir os topicos a serem desenvolvidos entre os integrantes.
 
-![1](https://github.com/user-attachments/assets/39edccc3-c42c-4c76-b067-3791433c02f6)
-[Estudo sobre a introdução de sistemas inteligentes de transporte na RFB.pdf](https://github.com/user-attachments/files/17693874/Estudo.sobre.a.introducao.de.sistemas.inteligentes.de.transporte.na.RFB.pdf)
-
-
-
-
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Dashboard com uma analise prévia.
-- [ ] Quais vizualizações o cliente vai ter.
+- [X] Dashboard com uma analise prévia.
+- [X] Quais vizualizações o cliente vai ter.
 - [X] Definir quais serão as ações tomadas em relação as redes sociais na intenção de incentivar o uso do transporte publico.
 - [X] Pesquisar sobre as possiveis ferramentas de monitoramento.
 - [X] Realizar uma pesquisa de mercado para realizar o pagamento após o uso do transporte como em outras empresas
 
 ## Sprint 3 . Implementação
-- [ ] Dashboard com as informações da Sprint 2
+- [X] Dashboard com as informações da Sprint 2
 - [X] Analise dos destinos de acordo com a planilha de rotas
-- [ ] Comparativo dos custos para promover o pagamento após o uso do transporte
-- [ ] Uma  prévia da documentação/relatório do projeto
+- [X] Comparativo dos custos para promover o pagamento após o uso do transporte
+- [X] Uma  prévia da documentação/relatório do projeto
 
 ## Sprint 4. Operacionalização
-- [ ] Dashboard com todas informações analisadas.
-- [ ] Acesso a documentação completa do projeto
+- [X] Dashboard com todas informações analisadas.
+- [X] Acesso a documentação completa do projeto
 
 ## 📂 **Documentos e Planilhas**
 
